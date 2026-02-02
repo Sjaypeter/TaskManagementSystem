@@ -22,7 +22,7 @@ namespace TaskManagementSystem.DTOs
     }
 
     // What we return
-    public class CommentDto
+    public class CommentDTOs
     {
         public int Id { get; set; }
         public string Content { get; set; }
